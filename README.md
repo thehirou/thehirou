@@ -1,3 +1,4 @@
+Game developer and music composer with way too many hobbies...
 [![Hirou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehirou&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
