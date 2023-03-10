@@ -3,12 +3,6 @@ Game developer and music composer with way too many hobbies...
 <br>
 [![Hirou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehirou&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<audio controls autoplay>
-<source src="https://docs.google.com/uc?export=download&id=16EdZOCVTa8SQ9keV27X-PezF4D6X-OO8" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
-
-
 <!--
 **thehirou/thehirou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
